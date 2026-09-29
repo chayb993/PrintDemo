@@ -1,0 +1,8 @@
+# 안올리는 파일
+main_print_v1.ipynb
+*.avi
+
+
+#안올리는 폴더
+venv/
+.vscode/
